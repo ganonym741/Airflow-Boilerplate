@@ -1,4 +1,5 @@
 /logs/*
+!**.gitkeep
 /.env
 **/dist
 **/node_modules
